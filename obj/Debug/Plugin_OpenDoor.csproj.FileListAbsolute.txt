@@ -1,0 +1,17 @@
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\Plugin_OpenDoor.exe.config
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\Plugin_OpenDoor.exe
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\Plugin_OpenDoor.pdb
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\CYQ.Data.dll
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\DevComponents.DotNetBar2.dll
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\CYQ.Data.pdb
+D:\AlterCode\Plugin_OpenDoor\bin\Debug\CYQ.Data.xml
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\ResolveAssemblyReference.cache
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.frmMain.resources
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.Properties.Resources.resources
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\GenerateResource.read.1.tlog
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\GenerateResource.write.1.tlog
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.exe
+D:\AlterCode\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.pdb
+D:\VShome\Plugin_OpenDoor\bin\Debug\Plugin_OpenDoor.exe.config
+D:\VShome\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.exe
+D:\VShome\Plugin_OpenDoor\obj\Debug\Plugin_OpenDoor.pdb
